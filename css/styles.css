@@ -1,0 +1,17 @@
+h1 {
+  color: darkgreen;
+}
+
+p {
+  color: grey;
+}
+
+h3 {
+  color: coral;
+}
+
+body {
+  background-color: lightgreen;
+  font-family: sans-serif;
+  text-align: center;
+}
