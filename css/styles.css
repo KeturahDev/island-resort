@@ -13,9 +13,10 @@ h3 {
 body {
   background-color: rgb(16, 138, 168);
   font-family: sans-serif;
-  text-align: right;
-  margin: 10%;
-  padding-right: 50px;
-  border-color: aquamarine;
-  border-style: double;
+  text-align: center;
+  margin-left: 42%;
+  margin-right: 35%;
+  padding: 70px;
+  border-color: white;
+  border-style: dashed;
 }
