@@ -11,7 +11,11 @@ h3 {
 }
 
 body {
-  background-color: rgb(9, 88, 9);
+  background-color: rgb(16, 138, 168);
   font-family: sans-serif;
-  text-align: center;
+  text-align: right;
+  margin: 10%;
+  padding-right: 50px;
+  border-color: aquamarine;
+  border-style: double;
 }
